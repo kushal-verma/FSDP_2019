@@ -1,0 +1,1 @@
+print(any(map(lambda i: True if str(i)[::-1]==str(i) and i>0 else False , map(int, input("Enter numbers>").split(" ") ) )))

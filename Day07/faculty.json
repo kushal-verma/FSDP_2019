@@ -1,0 +1,18 @@
+{
+	"Faculty": {
+		"first_name": "Kushal",
+		"last_name": "Verma",
+		"photo": "best_headphones_header_1500x300._CB462690041_.jpg",
+		"Department": "cs",
+		"Research_area": "Jaipur",
+		"Contact details": [{
+			"Phone_number": 23983572895,
+			"Email_id": "Vermakushal61@gmail.com"
+
+
+		}]
+	}
+
+
+
+}
